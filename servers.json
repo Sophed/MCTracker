@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Hypixel",
+            "ip": "hypixel.net"
+        }
+    ]
+}
